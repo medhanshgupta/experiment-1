@@ -13,7 +13,7 @@ calculator:
 Start.
 Prompt the user to enter a value for a and convert it to an integer.
 Prompt the user to enter a value for b and convert it to an integer.
-Calculate addition, subtraction, multiplication, division, and exponentiation.
+Calculate addition(a+b), subtraction(a-b), multiplication(a*b), division(a/b), and exponentiation(a**b).
 Print the results.
 Stop. 
 
