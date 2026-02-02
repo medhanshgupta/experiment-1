@@ -1,14 +1,14 @@
-aim : 
+## Aim : 
 introduction to python
 
-theory : 
+## Theory : 
 inputing elements, displaying data types, mathematical operation in two integers, area of circle, log value, sin value, checking which element is greater.
 int is used integer value.
 to use pi and log we use import math.
 float is used to store decimals.
 to check if condition is true or not we use if-else statement.
 
-algorithm : 
+## Algorithm : 
 calculator: 
 Start.
 Prompt the user to enter a value for a and convert it to an integer.
@@ -34,4 +34,4 @@ Calculate the area using the formula: Area = pi*r*r (using math.pi).
 Print the calculated area.
 Stop.
 
-conclusion : hence the codes for calculator, area of circle and comparision of two numbers was successfully executed.
+## Conclusion : hence the codes for calculator, area of circle and comparision of two numbers was successfully executed.
