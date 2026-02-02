@@ -2,11 +2,11 @@
 introduction to python
 
 ## Theory : 
-inputing elements, displaying data types, mathematical operation in two integers, area of circle, log value, sin value, checking which element is greater.
-int is used integer value.
-to use pi and log we use import math.
-float is used to store decimals.
-to check if condition is true or not we use if-else statement.
+Inputing elements, displaying data types, mathematical operation in two integers, area of circle, log value, sin value, checking which element is greater.  
+int is used integer value.   
+To use pi and log we use import math.   
+float is used to store decimals.   
+To check if condition is true or not we use if-else statement.  
 
 ## Algorithm : 
     a)calculator: 
